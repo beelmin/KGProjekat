@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.546,=C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit4.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.617,C:\Users\User\Desktop\projekat_kg_ruhotina_belmin\main.cpp=C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit4Voronoi.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.617,C:\Users\User\Desktop\projekat_kg_ruhotina_belmin\main.h=C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit4Voronoi.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.787,=C:\Users\User\Documents\Embarcadero\Studio\Projects\File1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.018,C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit4.cpp=C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit4Voronoi.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.138,C:\Users\User\Desktop\projekat_kg_ruhotina_belmin\projekat.cbproj=C:\Users\User\Documents\Embarcadero\Studio\Projects\Project3Voronoi.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.904,=C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.212,C:\Users\User\Documents\Embarcadero\Studio\Projects\Graham.dfm=C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.018,C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit4.dfm=C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit4Voronoi.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.926,C:\Users\User\Documents\Embarcadero\Studio\Projects\File1.h=C:\Users\User\Documents\Embarcadero\Studio\Projects\pomocna.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.881,C:\Users\User\Documents\Embarcadero\Studio\Projects\Project3.cbproj=C:\Users\User\Documents\Embarcadero\Studio\Projects\Project3.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.681,C:\Users\User\Documents\Embarcadero\Studio\Projects\Project3.cbproj=C:\Users\User\Documents\Embarcadero\Studio\Projects\Project3Voronoi.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.212,C:\Users\User\Documents\Embarcadero\Studio\Projects\Graham.h=C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.617,C:\Users\User\Desktop\projekat_kg_ruhotina_belmin\main.dfm=C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit4Voronoi.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.393,C:\Users\User\Documents\Embarcadero\Studio\Projects\Project3PCH2.h=C:\Users\User\Documents\Embarcadero\Studio\Projects\Project3PCH2Voronoi.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.018,C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit4.h=C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit4Voronoi.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.470,=C:\Users\User\Documents\Embarcadero\Studio\Projects\Project3PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.212,C:\Users\User\Documents\Embarcadero\Studio\Projects\Graham.cpp=C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.046,=C:\Users\User\Documents\Embarcadero\Studio\Projects\Project3PCH2.h</Transaction>
+  </Transactions>
+</BorlandProject>
